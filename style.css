@@ -1,0 +1,268 @@
+*{
+    margin: 0rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: #714896;
+}
+.navbar{
+    display: inline-flex;
+    background-color: black;
+    height: 3rem;
+    color: white;
+    border-radius: 0.7rem;
+    border-bottom-left-radius: none;
+    border-bottom-right-radius: none;
+}
+.middlenavbar{
+    padding-top: 1.6rem;
+    display: flex;
+    justify-content: space-evenly;
+    width: 40rem;
+    text-align: center;
+    border-radius: 0.7rem;
+}
+.leftnavbar{
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 0.7rem;
+}
+h5{
+    position: relative;
+    left: 0.5rem;
+    font-size: 0.8rem;
+}
+.symbol{
+    padding-left: 0.rem;
+    border-radius: 1rem;
+    padding-top: 0.8rem;
+}
+#shield{
+    padding-top: 0.9rem;
+    padding-left: 2rem;
+    border-radius: 0.7rem;
+    height: 2rem;
+    width: 2rem;
+}
+.rightnavbar{
+    display: flex;
+    padding-left: 22rem;
+    text-align: center;
+}
+.mainbox{
+    background-color: black;
+    border-radius: 0.7rem;
+    border-bottom-left-radius: none;
+    border-bottom-right-radius: none;
+}
+h6{
+    font-size: 1rem;
+    padding-right: 1.7rem;
+    padding-top: 1rem;
+}
+.download{
+    width: 10.5rem;
+    height: 2rem;
+    background-color: #714896;
+    border-radius: 0.6rem;
+    position: relative;
+    top: 0.7rem;
+    text-align: center;
+    color: white;
+}
+.heading{
+    color: white;
+    font-size: 2rem;
+    padding-top: 2rem;
+    text-align: center;
+}
+.description{
+    font-size: 15px;
+    padding-top: 1rem;
+}
+.options{
+    padding-top: 1rem;
+    color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+h2{
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding-left: 0.5rem;
+    padding-right: 10rem;
+    padding-top: 0.5rem;
+}
+#one,#two,#three,#four{
+    border-radius: 0.5rem;
+    background-color: #714896;
+    height: 1.5rem;
+    width: 2rem;
+    padding-top: 0.5rem;
+}
+.bigbox{
+    padding-top: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+    height: 35rem;
+}
+.box1,.box2,.box3{
+    width: 18rem;
+    height: 31rem;
+    background-color:#A481C3;
+    border-radius: 2rem;
+    padding-top: 1.7rem;
+    color: white;
+}
+.innerbox1,.innerbox2,.innerbox3{
+    padding-left: 2rem;
+}
+.innerfeatures{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 12rem;
+    padding-right: 2rem;
+}
+.expert,.pro,.basic{
+    border-radius: 0.8rem;
+    background-color: #714896;
+    text-align: center;
+    height: 1.6rem;
+    color: white;
+}
+.expert{
+    width: 5rem;
+    text-align: center;
+    padding-top: 0.5rem;
+}
+.pro{
+    width: 3rem;
+    padding-top: 0.5rem;
+}
+.basic{
+    width: 4rem;
+    padding-top: 0.5rem;
+}
+.option1{
+    font-size: 1rem;
+    background-color: #714896;
+    border-radius: 1rem;
+    text-align: center;
+    width: 16rem;
+    height: 2rem;
+    color: white;
+    border: none;
+}
+.option2{
+    font-size: 1rem;
+    background-color: white;
+    border-radius: 1rem;
+    border: none;
+    text-align: center;
+    width: 16rem;
+    height: 2rem;
+    color: #714896;
+    font-weight: bold;
+}
+.but{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    justify-items: center;
+    padding-left: 1.2rem;
+    height: 5rem;
+}
+.extrainformation{
+    background-color:black;
+}
+.navbar2{
+    display: flex;
+    color: white;
+    background-color: black;
+}
+.icon{
+    display: flex;
+    color: white;
+}
+.icons{
+    padding-left: 65rem;
+    padding-top: 1rem;
+}
+.twitter,.instagram,.facebook,.linkedin,.whatsapp,.youtube,.telegram{
+    background-color: #714896;
+    border-radius: 2rem;
+    border: none;
+    color: white;
+}
+.footer{
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+}
+.upload{
+    background-color: #714896;
+    color: white;
+    border-radius: 2rem;
+   padding-left: 1.45rem;
+   padding-top: 2rem;
+   height: 10rem;
+}
+h3{
+    padding-left: 1rem;
+}
+.playstore,.appstore{
+    background-color: #A481C3;
+    border-radius: 1rem;
+    border: none;
+    height: 2rem;
+    width: 7rem;
+    color: white;
+}
+.playstore{
+    position: relative;
+    left: 3rem;
+}
+.appstore{
+    position: relative;
+    left: 2rem;
+}
+.buttons{
+    align-content: center;
+    align-items: center;
+}
+.uti,#men{
+    font-size: large;
+}
+.menu{
+    text-wrap:wrap;
+    display: flex;
+    justify-content: space-between;
+}
+#fi{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.menu1{
+    padding-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.menu2{
+    padding-top: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-bottom: 1.6rem;
+    padding-left: 2rem;
+}
+.innerutility{
+    height: 10rem;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
